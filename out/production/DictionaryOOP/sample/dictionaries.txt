@@ -1,0 +1,998 @@
+a 	 “I saw a bear today.”
+ability 	 “He has the ability to explain things well.”
+able 	 “Will you be able to send me your report today?”
+about 	 “What is the story about?”
+about 	 “What is this movie about?”
+above 	 “Look on the shelf above the sink.”
+accept 	 “Will you accept my credit card?”
+according 	 “According to the weather report, it’s going to rain today.”
+across 	 “Your dog ran across the park.”
+act 	 “I’ll act on your information today.”
+action 	 “You next action is going to be critical.”
+activity 	 “What musical activity can you suggest for my toddler?”
+actually 	 “I’m actually just heading out.”
+add 	 “Is it okay if we add a bit of sugar to the tea?”
+administration 	 “I will take this up with the administration.”
+adult 	 “Adults pay full price, but children are free.”
+affect 	 “My bank account will affect how much I can buy.”
+after 	 “After all this time, he has finally learned to love.”
+after 	 “Let’s have dinner after work.”
+again 	 “Can we play that game again?”
+against 	 “I am so against domestic abuse!”
+age 	 “What is the average marrying age these days?”
+agency 	 “Let’s contract an agency to help with marketing.”
+ago 	 “Three years ago, I visited Japan for the first time.”
+agree 	 “I agree! He is cute!”
+air 	 “I am loving the cold night air here.”
+all 	 “All my favorite books are on this shelf.”
+all 	 “That’s all I know about Dinosaurs.”
+allow 	 “Do you allow your kids to play outside the house?”
+almost 	 “I’m almost done with my report.”
+along 	 “Can I tag along your road trip?”
+already 	  “I already asked him to resend his report.”
+also 	 “She was also my best friend.”
+although 	 “Although she felt tired, she still couldn’t sleep.”
+always 	 “I always bring pepper spray with me.”
+American 	 “My sister is dating an American.”
+American 	 “The American culture is so dynamic.”
+among 	 “Among all my pets, he’s my most favorite.”
+amount 	 “It take a large amount of food to feed an elephant.”
+analysis 	 “I’ll give you my analysis when I’ve seen everything.”
+and 	 “You and I will always be friends.”
+animal 	 “What kind of animal is that?”
+another 	 “I’ll have another glass of wine, please.”
+answer 	 “Could you answer a question for me?”
+answer 	 “Give me your answer by noon tomorrow.”
+any 	 “Have you had any luck on your research?”
+anyone 	 “Does anyone know the answer?”
+anything 	 “You can ask me for anything.”
+appear 	 “How did that appear out of nowhere?”
+apply 	 “Maria applied for the job.”
+approach 	 “The cat slowly approached the bird.”
+area 	 “This area of this house needs to be fixed.”
+argue 	 “It’s not a good idea to argue with your boss.”
+arm 	 “He broke his arm during practice.”
+around 	 “We went around the block.”
+around 	 “You’ll always have me around.”
+arrive 	 “When will your plane arrive?”
+art 	 “This is my work of art.”
+article 	 “Did you read that newspaper article?”
+artist 	 “Taylor Swift is a recording artist.”
+as 	 “As soon as I get home, I’m going to start watching that series.”
+as 	 “As soon as she’s here, I’ll talk to her.”
+as 	 “Her role as an English teacher is very important.”
+ask 	 “Can you ask the waiter to bring us some wine?”
+at 	 “Can you pick me up at the mall?”
+attack 	 “The army will attack at dawn.”
+attention 	 “Can I have your attention, please?”
+author 	 “The author of this series is world-famous.”
+authority 	 “City authorities make the local laws.”
+available 	 “I am available to work on your project.”
+avoid 	 “You should avoid poison ivy.”
+away 	 “He’s away right now.”
+away 	 “I wish that mosquito would go away.”
+baby 	 “Her baby is so adorable.”
+back 	 “I’ll be right back.”
+back 	 “Looking back, I knew I was always an introvert.”
+bad 	 “What you did was so bad.”
+ball 	 “He threw the ball to the dog.”
+bank 	 “I need to go to the bank to withdraw some money.”
+bar 	 “A bar is a place where alcohol is served.”
+base 	 “All moms are their child’s home base.”
+base 	 “The glass has a heavy base so it won’t fall over.”
+be 	 “Will you be my friend?”
+beautiful 	 “You are beautiful.”
+because 	 “I am crying because I’m sad.”
+because 	 “I’m going home because my mom needs me.”
+become 	 “Over the years we’ve become really close.”
+bed 	 “I go to bed around 10pm.”
+before 	 “Before I go to bed I always wash my face.”
+before 	 “Before the movie, let’s buy popcorn!”
+before 	 “Can I talk to you before you go home?”
+begin 	 “Where do I begin with this huge project?”
+behavior 	 “This dog’s behavior is excellent.”
+behind 	 “I’m scared to check what’s behind that door.”
+believe 	 “I believe in you.”
+benefit 	 “There are many health benefits to quinoa.”
+best 	 “This is the best potato salad I’ve ever tasted.”
+best 	 “Those are the best glasses to buy.”
+better 	 “You better learn how to follow rules.”
+better 	 “Your singing has gotten so much better!”
+between 	 “This is just between you and me.”
+beyond 	 “The town is just beyond those mountains.”
+big 	 “I have this big crush on Brad Pitt.”
+bill 	 “The electrician will send me a bill.”
+billion  	 “My target is to have 1 billion dollars in my account by the end of the year.”
+bit 	 “It rained a little bit last night.”
+black 	 “She has long, black hair.”
+blood 	 “The hospital needs people to give blood.”
+blue 	 “My favorite color is blue.”
+board 	 “Can you see the board?”
+body 	 “She worked out hard to achieve a toned body.”
+book 	 “Can I borrow your English book?”
+both 	 “They both love chocolate ice cream.”
+both 	 “You both need to change into your sleep clothes now.”
+box 	 “I packed my dishes in a strong box.”
+boy 	 “There’s a boy in her class who keeps pulling her hair.”
+break 	 “Don’t break the law.”
+bring 	 “Please bring a pen.”
+brother 	 “My brother always have my back.”
+build 	 “He is going to build his dream house.”
+building 	 “This building is so tall!”
+business 	 “His business is thriving.”
+but 	 “I’m sorry but she’s away.”
+buy 	 “I’m going to buy these shoes.”
+by 	 “Will you come by and see me?”
+call 	 “Call me when you get home, okay?”
+call 	 ” I am going to call the bank.”
+camera 	 “I use the camera on my phone.”
+campaign 	 “I handled their election campaign.”
+can 	 “What can I do for you?”
+can’t 	 “I can’t open it.”
+candidate 	 “There are ten candidates for the position.”
+car 	 “Let’s go inside my car.”
+card 	 “They sent me a card for my birthday.”
+care 	 “I don’t care about what you think.”
+care 	 “She cares for her mother at home.”
+career 	 “Retail sales is a good career for some people.”
+carry 	 “Can you carry my bag for me?”
+case 	 “What an interesting case you are working on now!”
+catch 	 “Let’s catch up soon, please!”
+cause 	 “We have to see the cause and effect of this experiment.”
+cell 	 “Your body is made of millions of cells.”
+center 	 “I hate being the center of attention.”
+central 	 “There is good shopping in central London.”
+century 	 “We’re living in the 21st century, Mary.”
+certain  	 “There’s a certain kind of magic in the air now.”
+certainly 	 “I can certainly help clean up.”
+chair 	 “The table has six matching chairs.”
+challenge 	 “I challenge you to do better.”
+chance 	 “Is there any chance that you can do this for me?”
+change 	 “What can we change so that things will get better?”
+change 	 “Where can we change her diaper?”
+character 	 “You can trust people of good character.”
+charge 	 “I need to charge my phone.”
+check 	 “Please check my work to be sure it’s correct.”
+child 	 “I just saw a child cross the street by herself.”
+choice 	 “I have no choice.”
+choose 	 “Let me choose a color.”
+church  	 “I saw you in church last Sunday.”
+city 	 “This is the city that never sleeps.”
+claim 	 “I claim to be a fast reader, but actually I am average.”
+claim 	 “I made an insurance claim for my car accident.”
+class 	 “We were in the same English class.”
+clear 	 “That picture is so clear inside my head.”
+clearly 	 “The instructions were clearly written.”
+close 	 “Close the door, please.”
+cold 	 “My feet are cold.”
+college 	 “We met in college.”
+color 	 “My favorite color is blue.”
+come 	 “Can your mom and dad come to the party?”
+common 	 “Most people can find something in common with each other.”
+community 	 “Our community is very tight knit.”
+company 	 “Will you keep me company?”
+compare 	 “We should compare cars before we buy one.”
+computer 	 “Can you turn on the computer, please?”
+concern 	 “Thank you for your concern, but I’m fine.”
+condition 	 “Do you know the condition I am in?”
+conference 	 “There will be expert presenters at the conference.”
+Congress 	 “It will be debated at the Congress.”
+consider 	 “I hope you consider my project proposal.”
+contain 	 “The carton contains a dozen egges.”
+continue 	 “Can we continue working tomorrow?”
+control 	 “Keep control of the car.”
+control 	 “Where’s the remote control?”
+cost 	 “The cost of fuel has increased!”
+could 	 “Could you help me with my project?”
+country 	 “Japan is such a beautiful country!”
+couple 	 “The couple is on their honeymoon now.”
+course  	 “Have seen my course already?”
+course 	 “What course did you take up in college?”
+court 	 “There’s a basketball court near our house.”
+cover  	 “Could you cover for me during emergencies?”
+create 	 “Did you create that presentation? It was so good.”
+crime 	 “The police fight crime.”
+cultural 	 “There is cultural significance to those old ruins.”
+culture  	 “I hope they understand our culture better.”
+cup 	 “Would you like a cup of coffee?”
+current 	 “What is your current address?”
+cut 	 “Don’t cut your hair.”
+dark 	 “Turn on the light, it’s dark in here.”
+data 	 “How can we simplify this data?”
+daughter 	 “My daughter knows how to read now.”
+day 	 “Today is National Friendship day.”
+dead 	 “My phone is dead, let me charge it.”
+deal 	 “A used car can be a good deal.”
+deal 	 “I got a good deal at the store.”
+death 	 “Death is such a heavy topic for me.”
+decade 	 “I’ve lived in this city for over a decade.”
+decide 	 “Please decide where to eat.”
+decision 	 “This is a big decision for me.”
+deep 	 “That poem about life is deep.”
+defense 	 “What is your defense or reason you did this?”
+degree 	 “Set the oven to 300 degrees.”
+Democrat 	 “The Democrats control the Senate.”
+democratic 	 “Does Australia have a democratic government?”
+describe 	 “Describe yourself in one word.”
+design 	 “The windows don’t open by design.”
+design 	 “We need to design a new logo.”
+despite 	 “Despite the rain, we will still have the picnic.”
+determine 	 “Eye color is genetically determined.”
+develop 	 “That rash could develop into something more serious.”
+development 	 “This news development is really interesting.”
+die 	 “I don’t want my cat to die, let’s take him to the vet please.”
+difference 	 “What’s the difference between happiness and contentment?”
+different 	 “Just because she’s different, it doesn’t mean she’s bad.”
+difficult 	 “Sometimes, life can be difficult.”
+direction 	 “What direction is the city from here?”
+director 	 “The director yelled ‘Cut!'”
+discover 	 “You’ll discover treasures at that thrift store.”
+discuss 	 “We’ll discuss that at the meeting.”
+disease 	 “Face masks help prevent disease.”
+do 	 “What will you do now?”
+doctor	“The doctor is in.”
+dog 	 “Do you think a dog is a good pet?”
+door 	 “You left the door open.”
+down 	 “Let’s go down.”
+draw 	 “Can you draw this for me?”
+dream 	 “I have a dream.”
+drive 	 “You can’t drive there, you need to walk.”
+drop 	 “Please don’t drop the eggs!”
+drug 	 “She got the patent for the drug she has created to cure cancer.”
+during 	 “During the session, I saw him fall asleep.”
+each 	 “Can you give each of them an apple?”
+each 	 “Put a flower in each vase.”
+early 	 “I come to work so early every day.”
+early 	 “I’m too early for my appointment.”
+east 	 “Drive east for three miles.”
+easy 	 “I thought you said this was going to be easy?”
+eat 	 “I could eat that all day.”
+economic 	 “Some countries are facing an economic crisis.”
+economy 	 “The economy is booming.”
+edge 	 “Please do not stand so close to the edge of the cliff.”
+education 	 “I just want you to get the best education.”
+effect 	 “Wow, the effect of that mascara is great!”
+effort 	 “The government must make an effort to solve this.”
+eight 	 “That recipe takes eight cups of flour.”
+either 	 “I either walk or commute to work.”
+election 	 “Who do you think will win the election?”
+else 	 “Is anyone else coming?”
+employee 	 “That store only has three employees.”
+end 	 “It’s the end of an era.”
+end 	 “It’s the end of an era.”
+energy  	  “Now put that energy into walking.”
+enjoy 	 “I enjoy soda.”
+enough 	 “Boys, that’s enough playing for today.”
+enough 	 “Have you had enough coffee?”
+enter 	 “You can enter the building on the left.”
+entire 	 “He ate the entire meal in 10 minutes.”
+environment 	 “We live in a healthy environment.”
+environmental 	 “Environmental issues are in the news.”
+especially 	 “I especially like his blue eyes.”
+establish 	 “They established their business in 1942.”
+even 	 “Even if they’ve broken up, they still remain friends.”
+even 	 “She can’t even stand on her own.”
+evening 	 “I’m staying home this evening.”
+event 	 “We’re holding a big event tonight.”
+ever 	 “Have you ever tried this cake?”
+every 	 “Every person has his own big goal to fulfill.”
+everybody 	 “Everybody likes ice cream.”
+everyone  	 “Everyone thinks I stole that file.”
+everything 	 “Everything is on sale.”
+evidence 	 “The evidence clearly shows that he is guilty.”
+exactly 	 “Use exactly one teaspoon of salt in that recipe.”
+example 	 “I need an example of that grammar point, please.”
+executive 	 “The company’s executives are paid well.”
+expect 	 “You can’t expect much from their poor service.”
+experience 	 “What an exciting experience!”
+expert 	 “Matt is an IT expert.”
+explain 	 “I’ll explain everything later, I promise.”
+eye 	 “She has the pink eye.”
+face  	 “I can’t bear to face this horrendous traffic again and again.”
+face 	 “Why is your face so red?”
+fact 	 “It’s a fact: shopping can improve your mood.”
+factor 	 “Heredity is a factor in your overall health.”
+fail 	 “I fail to see what is so funny about that.”
+fall 	 “Be careful, you might fall.”
+family 	 “You are like family to me.”
+far 	 “I don’t want to move far from my family.”
+far 	 “We’ve gone too far and now we’re lost.”
+father 	 “My father is so important to me.”
+fear 	 “Do you have any fears?”
+federal 	 “Animal abuse is now a federal felony!”
+feel 	 “I feel so tired, I just need to relax and unwind.”
+feeling 	 “I have a good feeling about this.”
+few 	 “Just a few more errands and I’m done!”
+field 	 “He’s over there, by the soccer field.”
+fight 	 “I don’t want to fight with you.”
+figure 	 “Will our government figure out how to fix this problem?”
+fill 	 “I need to fill (up) my gas tank.”
+film 	 “That film is absolutely mind-blowing.”
+final 	 “The divorce was final last month.”
+finally 	 “I can finally move out from my old apartment.”
+financial 	 “I keep my accounts at my financial institution.”
+find 	 “Where can I find rare furniture?”
+fine 	 “I feel fine.”
+finish 	 “Did you finish your homework?”
+fire 	 “Make sure your smoke alarm works in case of fire.”
+firm 	 “Her ‘no” was very firm, she won’t change her mind.”
+first 	 “She was my very first teacher.”
+fish 	 “I don’t enjoy eating fish.”
+five 	 “I can give you five reasons why you need to watch that video.”
+floor 	 “She is our floor manager.”
+fly 	 “We can fly to France next year.”
+focus 	 “Turn off your phone and the TV and focus on your studies!”
+follow 	 “I’ll follow you home.”
+food 	 “Let’s buy some food, I’m hungry!”
+foot 	 “Her foot got caught in one of the ropes.”
+for 	 “This letter is for you.”
+force 	 “Don’t force him to play with other kids.”
+force 	 “It takes a lot of force to open that door.”
+foreign 	 “It’s great having foreign friends.”
+forget 	 “Don’t forget to stop at the store.”
+form 	 “A new island was formed after that big earthquake.”
+form 	 “Please fill out this application form.”
+former 	 “She was my former housemate.”
+forward 	 “Move the car forward a few feet.”
+four 	 “There are four seasons in a year.”
+free 	 “The best things in life are free.”
+friend 	 “You’re a good friend.”
+from 	 “This card came from my cousin.”
+front 	 “Please face front.”
+full 	 “My work load is so full now.”
+fund	“I have a savings fund for college.”
+future	“The future is full of hope.”
+game 	 “Let’s play a game.”
+general 	 “My general impression of the restaurant was good.”
+get 	 “Can you get me my eyeglasses?”
+girl 	 “That girl is in my class.”
+give 	 “Give her these pearls.”
+glass 	 “Glass is much heavier than plastic.”
+go 	 “I want to go there.”
+goal 	 “My goal is to speak English fluently.”
+good 	 “You’re a good person.”
+government 	 “I hope the government does something about the poverty in this country.”
+great 	 “This ice cream place is great for families with kids!”
+green 	 “The grass is green.”
+ground  	 “The ground is shaking.”
+group 	 “The group sitting across our table is so noisy.”
+grow 	 “We want everyone to grow and thrive in their careers.”
+growth 	 “The company has seen strong growth this quarter.”
+guess 	 “If you don’t know, just guess.”
+gun 	 “Gun ownership is a controversial topic.”
+guy 	 “I’ve seen that guy in school before.”
+hair 	 “I’ll cut my hair short for a change.”
+half 	 “Just half a liter please.”
+hand 	 “Don’t let go of my hand.”
+hang 	 “Please hang your coat on the hook.”
+happen 	 “What will happen if you don’t submit your report on time?”
+happy 	 “Kittens make me happy.”
+hard 	 “That test was so hard.”
+hard 	 “That test was very hard.”
+have 	 “I have a few questions.”
+he 	 “He is my brother.”
+head 	 “Let’s head back, it’s freezing out here.”
+head 	 “My head hurts.”
+health 	 “You must take good care of your health.”
+hear 	 “Did you hear that?”
+heart 	 “My heart is so full.”
+help 	 “Could you help me move this table?”
+help 	 “I need help with my Math homework.”
+her 	 “Her grandmother is sick.”
+her 	 “I have her book.”
+here 	 “My mom is here.”
+herself 	 “She bought herself a new coat.”
+high 	 “Give me a high five!”
+him 	 “I heard him singing earlier.”
+himself 	 “He cooked this Turkey himself.”
+his 	 “This is his box.”
+history 	 “She is my history professor.”
+hit  	 “He hit the burglar with a bat.”
+hold 	 “Just hold my hand.”
+home 	 “Can we go home now?”
+home 	 “I can’t wait to go home!”
+hope 	 “I hope I’ll have a son one day.”
+hospital 	 “I’ll take her to the nearest hospital.”
+hot 	 “Don’t touch the stove, it’s still hot.”
+hour 	 “I’ve been checking his temperature every hour.”
+house 	 “The house is so quiet without you.”
+how 	 “How do I turn this on?”
+however 	 “I want to buy this bag, however, I need to save up for it first.”
+huge 	 “That truck is huge!”
+human 	 “Give him a break, he is only human.”
+hundred 	 “I have a hundred dollars that I can lend you.”
+husband 	 “My husband just bought me a ring for my birthday.”
+I 	 “I really like it here.”
+idea 	 “It was your idea to go to the beach, remember?”
+identify 	 “I can’t identify that plant.”
+if 	 “What if I fail?”
+image 	 “There’s an image of him stored inside my mind.”
+imagine 	 “Can you imagine if pigs could fly?”
+impact 	 “The drought had a big impact on the crops.”
+important 	 “You’re important to me.”
+improve 	 “I am always looking for ways to improve.”
+in 	 “She is in her room.”
+in 	 “What’s in that box?”
+include 	 “Did you remember to include the summary in your report?”
+including 	 “Around 20 people attended, including Bob and Beth.”
+increase 	 “Let’s increase your test score.”
+indeed 	 “Your mother does indeed have hearing loss.”
+indicate 	 “Her reply indicated that she understood.”
+individual 	 “These potato chips are in an individual serving size package.”
+individual 	 “You can buy an individual or group membership.”
+industry 	 “The fuel industry is hiking prices.”
+information 	 “This is the information I need.”
+inside 	 “The cat stays inside.”
+instead 	 “Instead of eating cake I will have fruit.”
+institution 	 “Have you attended any institution of higher learning?”
+interest 	 “Music is an interest of mine.”
+international  	 “Their brand has gone international!”
+interview 	 “My job interview went well.”
+into 	 “My puppy ran into the woods.”
+involve 	 “We need to involve the police.”
+issue 	 “This is not an issue for me.”
+it 	 “It is sunny outside.”
+its 	 “I need to read its manual.”
+itself  	 “The bike itself is pretty awesome.”
+job 	 “I love my job.”
+join 	 “He wants to join the soccer team.”
+just 	 “Just close your eyes.”
+keep 	 “Can we keep the lights on tonight?”
+kid 	 “I loved that toy when I was a kid.”
+kill 	 “Smoking can kill you.”
+kind 	 “Always be kind, even to strangers.”
+know 	 “Do you know where this place is?”
+knowledge 	 “Do you have the knowledge to fix that?”
+land 	 “Their plane is going to land soon.”
+language 	 “Learning a new language is fun.”
+large 	 “There’s a large amount of data online about that topic.”
+last 	 “This is my last slice of cake, I promise!”
+late 	 “I am running late for my doctor’s appointment.”
+later 	 “I’ll finish it later.”
+laugh 	 “That movie always makes me laugh.”
+law 	 “There’s a law against jay-walking.”
+lawyer 	 “My lawyer helped me write a will.”
+lay 	 “Lay the baby in her crib, please.”
+lead 	 “Just lead the way and I’ll follow.”
+leader 	 “You are a wonderful leader.”
+learn 	 “I’d love to learn more about the English language.”
+least 	 “She’s the least productive among all the employees.”
+leave 	 “I want you to leave.”
+left 	 “The door is on your left as you approach.”
+leg 	 “The boy broke his leg.”
+legal 	 “The legal documents need to be signed.”
+less 	 “I am praying for less stress this coming new year.”
+less 	 “Sometimes, less is more.”
+let 	 “Why won’t you let him know how you feel?”
+letter 	 “I already passed my letter of intent.”
+level 	 “What level are you in that game?”
+lie 	 “Teach your children not to lie.”
+life 	 “This is the best day of my life.”
+light 	 “Watch her face light up when you mention his name.”
+like 	 “I like this bag better than the other one you showed me.”
+like 	 “I really like you.”
+likely 	 “It was likely a deer trail.”
+line 	 “There’s a long line at the grocery cashier.”
+list 	 “I made a list of things to do.”
+listen 	 “You have to listen to your teacher.”
+little 	 “I have two little boys with me now.”
+little 	 “I prefer little cars.”
+little 	 “There’s a little bird outside my window.”
+live 	 “I’m going to live like there’s no tomorrow.”
+local 	 “This is a local business.”
+long 	 “She has long, brown hair.”
+long 	 “That was such a long time ago.”
+look 	 “Can you look at the items I bought?”
+look 	 “Please look this way.”
+lose 	 “I can’t lose you.”
+loss 	 “The farmer suffered heavy losses after the storm.”
+lot 	 “You have a lot of explaining to do.”
+love 	 “I love what you’re wearing!”
+love 	 ” l love Christmas!”
+low 	 “Her blood pressure has gotten really low.”
+main 	 “The main problem is a lack of money.”
+maintain 	 “Exercise helps you maintain a healthy weight.”
+major 	 “It’s a major issue for the project.”
+make 	 “Can we make our projects together?”
+man 	 “There’s a man outside looking for you.”
+manage 	 “Did you manage to find the keys?”
+management 	 “That store has good management.”
+manager 	 “The manager will look at your application.”
+many 	 “We shared many dreams together.”
+market 	 “Let’s visit the Sunday market.”
+material 	 “She had nothing material to report.”
+matter 	 “What does it matter anyway?”
+may 	 “You may take your seats.”
+maybe 	 “Maybe we can have ice cream for dessert.”
+me 	 “Can you give me some apples?”
+mean 	 “I didn’t mean to sound so angry.”
+measure 	 “Measure twice, cut once.”
+media 	 “That issue has been discussed in the media.”
+medical	“She needs medical assistance.”
+meet 	 “I want you to meet my aunt.”
+meeting 	 “We’ll have a staff meeting after lunch.”
+member 	 “She’s a member of the babysitter’s club.”
+memory 	 “He has a good memory.”
+mention 	 “Can you mention me in your story?”
+message 	 “You have a text message on your phone.”
+middle 	 “I am a middle child with one older brother and one younger sister.”
+might 	 “This might actually work.”
+military 	 “His dad is in the military.”
+million 	 “I have a million questions about this book.”
+mind 	 “This relaxation technique really eases my mind.”
+minute 	 “She’s laughing every minute of every day.”
+miss 	 “I miss you, when will I see you again?”
+model 	 “A great leader is a great model of how to do things.”
+moment 	 “The moment she walked in the room, her puppy started to jump and dance again.”
+money 	 “She needs money to buy her medicine.”
+month 	 “It’s that time of the month!”
+more 	 “Can I have some more milk shake?”
+more 	 “I have more stickers at home.”
+morning 	 “It’s such a beautiful morning!”
+most 	 “She’s the most beautiful girl I’ve ever seen.”
+most 	 “That’s the most interesting story I’ve ever heard.”
+mother 	 “His mother is a very lovely woman.”
+move 	 “Let’s move on to the next tourist spot.”
+movement 	 “The environmental movement is an international movement.”
+movie 	 “Let’s watch a movie later.”
+Mr. 	 “Mr. Morris is here.”
+much 	 “I love you guys so much.”
+much 	 “There’s so much to learn in the English language.”
+music 	 “I love music.”
+must 	 “We must watch this movie together.”
+my 	 “My mom is coming to visit.”
+myself 	 “I can clean up by myself.”
+name 	 “What’s your name?”
+name 	 “What’s your name?”
+nation 	 “We have to act as one nation.”
+national 	 “That virus has become a national concern.”
+natural 	 “This cleaner is natural, there aren’t any chemicals in it.”
+nature 	 “I love walking in nature!”
+near 	 “Near, far, wherever you are, I do believe that the heart goes on.”
+nearly 	 “He nearly died in that accident!”
+necessary 	 “It is necessary to sleep.”
+need  	 “I need to enroll him to a good preschool.”
+need 	 “I need some wine tonight!”
+network 	 “Band is the name of our internet network.”
+never 	 “I’m never going to drink wine again.”
+new 	 “I have new shoes.”
+news  	 “I saw that on the news.”
+next 	 “This is the next best thing.”
+nice 	 “That’s a very nice car.”
+night 	 “The night is young.”
+no 	 “‘No’ is one of the shortest complete sentences.”
+no 	 “I said ‘no,’ please don’t ask again.”
+no 	 “There’s no electricity now.”
+north 	 “Santa lives up north.”
+not 	 “That’s not what I want.”
+note 	 “Leave me a note if you’re going to be late.”
+note 	 “Please take notes during the lesson.”
+nothing 	 “There’s nothing we can do now. “
+now 	 “I want to watch this now.”
+number 	 “I have a number of favors to ask you.”
+occur 	 “Strange things occur in that empty house.”
+of 	 “Today is the first of November.”
+off 	 “The cat ran off with the dog.”
+off 	 “Please turn off the television.”
+offer 	 “Can I offer you a ride home?”
+office 	 “Welcome to my office.”
+officer 	 “Where can I find a police officer?”
+official 	 “Our official wedding photos are out!”
+often 	 “I buy from his bakery as often as I can.”
+oh 	 “Oh no, I left my phone at home!”
+oil  	 “Could you buy me some cooking oil at the store?”
+ok 	 “Would it be ok to eat out tonight?”
+old 	 “I feel so old!”
+on 	 “Can you turn on the lights?”
+on 	 “I watch movies on my iPad.”
+once 	 “I once had a puppy named Bark.”
+one 	 “I only have one cat.”
+one 	 “She is one of my English teachers.”
+one 	 “She’s the one he’s been waiting for.”
+only 	 “You are my only friend here.”
+only 	 “You are only allowed to go out today.”
+onto 	 “Jump onto the boat and we’ll go fishing.”
+open 	 “Are you open to teaching on weekends?”
+open 	 “Why did you open and read it?”
+operation 	 “The mining operation employs thousands of people.”
+opportunity 	 “It was the perfect opportunity to test her theory.”
+or 	 “Do you like blue or yellow?”
+order 	 “I would like to order a book.”
+organization 	 “Their organization is doing great things for street kids.”
+other  	 “This pen doesn’t work, try the other one.”
+other 	 “I like these shoes better than the other ones you showed me.”
+others 	 “The others haven’t arrived yet.”
+our 	 “This is our home now.”
+out 	 “Get out of my room.”
+out 	 “Please throw the trash out.”
+outside 	 “The cat goes outside sometimes.”
+over 	 “I can’t wait for this day to be over.”
+over 	 “She kept saying this over and over again.”
+own 	 “I want to get my own place.”
+page 	 “Please turn to page 62.”
+pain 	 “I have chest pain.”
+paper 	 “You can use a special paper for your invitations.”
+parent 	 “Every parent is trying hard and doing their best.”
+part 	 “This is my favorite part of the movie!”
+particular 	 “That particular style looks good on you.”
+particularly 	 “It’s not particularly hot outside, just warm.”
+party 	 “Are you going to her party tonight?”
+pass 	 “Can we pass by the grocery store?”
+past 	 “In the past, my English was not as good as it is today.”
+patient  	 “The patient is in so much pain now.”
+pay 	 “Let’s pay for our groceries.”
+peace 	 “World leaders gathered for peace talks.”
+people 	 “There are so many people at the mall today.”
+per 	 “Lobster is $20 per pound.”
+perform 	 “The singer will perform tonight.”
+performance 	 “Your performance can be affected by your sleep.”
+perhaps 	 “Perhaps we can arrive at a compromise.”
+period 	 “They covered a period of twenty years.”
+person 	 “You are a good person.”
+personal  	 “This letter is very personal.”
+phone  	 “Plus, it has a phone holder.”
+physical 	 “Keep a physical distance of six feet.”
+pick 	 “Did you pick a color theme already?”
+picture  	 “Picture this: a lake, a cabin, and lots of peace and quiet.
+piece 	 “That’s a piece of cake!”
+place 	 “Let’s meet out at meeting place.”
+place 	 “This place is wonderful!”
+plan 	 “Let’s make a plan.”
+plan 	 “What’s your plan this time?”
+plant 	 “Plant a seed.”
+play 	 “The children play at the park.”
+play 	 “We can play soccer next weekend instead.”
+player 	 “That basketball player is cute.”
+PM 	 “The movie starts at 7:30 PM.”
+point	“What is the point of all this?
+point 	 “You have a point.”
+police 	 “The police have questioned him about the incident.”
+policy 	 “They have a generous return policy.”
+political 	 “I stay away from political discussions.”
+politics 	 “Mitch is very active in politics.”
+poor 	 “We had a poor harvest this year because it was so dry.”
+popular 	 “That’s a popular restaurant.”
+population 	 “The population of the nearest big city was growing.”
+position  	 “Please position your hand properly when drawing.”
+possible 	 “Maybe it’s possible to change their bathroom amenities.”
+power 	 “With great power comes great responsibility.”
+practice 	 “Let’s practice our dance number.”
+prepare 	 “I’ll prepare breakfast tomorrow.”
+present 	 “If everyone is present, the meeting can begin.”
+president  	 “She was our class president back in high school.”
+pressure 	 “There is no pressure to finish right now.”
+pretty 	 “That is a pretty dress.”
+price 	 “This is the price you pay for lying.”
+private 	 “This is a private party.”
+probably 	 “He’s probably still asleep.”
+problem 	 “The problem is we think we have plenty of time.”
+process 	 “Wait, give me time to process everything you’re telling me.”
+produce  	 “Fresh farm produce is the best.”
+product 	 “This is my favorite product in their new line of cosmetics.”
+production 	 “Factory production has improved over the summer.”
+professor 	 “Dr. Smith is my favorite professor.”
+program 	 “This community program for teens is really helpful.”
+project 	 “This project file is due tomorrow.”
+property 	 “Do you own property, like a house?”
+protect 	 “A coat will protect you from the cold weather.”
+prove 	 “The employee proved his worth.”
+provide 	 “Please provide me with a list of your services.”
+public 	 “Masks must be worn in public places.”
+public 	 “This is public property.”
+pull 	 “My baby niece likes to pull my hair.”
+push 	 “The door says ‘push,’ not ‘pull.'”
+put 	 “Please put down that book and listen to me.”
+quality 	 “I paid a little more for quality shoes.”
+question 	 “I have a question for you.”
+quickly 	 “Let’s finish reading this quickly.”
+quite 	 “I’m quite satisfied with their work.”
+race 	 “We watched the car race on TV.”
+radio 	 “I listen to the radio in the car.”
+raise 	 “It’s so challenging to discipline kids these days.”
+range 	 My doctor offered me a range of options.
+rate 	 “How would you rate the hotel’s service?”
+rather 	 “Rather than focusing on the bad things, let’s be grateful for the good things.”
+rather 	 “Would you rather have a hamburger than a hot dog?”
+reach 	 “I can’t reach him, he won’t answer his phone.”
+read 	 “I read somewhere that this house is haunted.”
+ready 	 “Are you ready to leave for work?”
+real 	 “What is her real name?”
+realize 	 “I just realize that I have a meeting today.”
+really 	 “I really like your painting!”
+reason 	 “You are the reason I came home.”
+receive 	 “Did you receive the pie I sent you?”
+recent 	 “This is her most recent social media post.”
+recently 	 “I cleaned the bathroom most recently, so I think it’s your turn this time.”
+recognize 	 “Do you recognize the person in this photo?”
+record  	 “Can we record the minutes of this meeting, please?”
+red 	 “I’ll wear a red dress tonight.”
+reduce 	 “Reduce, reuse, and recycle are the ways to help the environment.”
+region 	 “What internet services are in your region?”
+relationship 	 “They’ve taken their relationship to the next level.”
+religious 	 “She is very religious, she attends church weekly.”
+remain 	 “These remain on the top shelf.”
+remember 	 “Do you think she will still remember me after ten years?”
+remove 	 “Remove the cookies from the oven.”
+report 	 “Did you report this to the police?”
+report 	 “I read her report and it was great!”
+represent 	 “I represent my family.”
+Republican 	 “He is a Republican candidate.”
+require 	 “They’ll require you to show your I.D.”
+research 	 “How is your research going?”
+resource 	 “The library has many online resources.”
+respond 	 “He hasn’t responded to my text yet.”
+response 	 “I didn’t expect his response to come so soon.”
+rest 	 “Let’s take a 15 minute rest.”
+result 	 “The result of this outreach program is amazing.”
+return 	 “I give her tickles in return.”
+reveal 	 “Washing off the dirt revealed the boy’s skinned knee.”
+right 	 “I’m right this time.”
+right 	 “Turn right when you reach the corner.”
+right 	 “You’re right, I want to go back there.”
+rise 	 “The sun will rise at 7:00 a.m.”
+risk 	 “Taking a risk can be rewarding.”
+road 	 “There’s a road that leads to the edge of the woods.”
+rock 	 “There are decorative rocks in the garden.”
+role 	 “She’s going to play the role of Elsa.”
+room 	 “His room is at the end of the corridor.”
+rule 	 “It’s the rule of the law.”
+run 	 “If you see a bear here, run for your life.”
+same 	 “Hey, we’re wearing the same shirt!”
+save 	 “I save all my cans for recycling.”
+say 	 “Can I say something?”
+scene 	 “He painted a colorful street scene.”
+school 	 “My cousin goes to school here.”
+science 	 “He studies health science at the university.”
+sea 	 “I want to sail the seven seas.”
+season 	 “Christmas is my favorite season!”
+seat 	 “That’s a comfortable seat.”
+second 	 “My second goal is to increase my confidence.”
+second 	 “This is the second time she got late this month.”
+section 	 “What section of the stadium are you sitting in?”
+security 	 “Some apartment buildings have security.”
+see 	 “Did you see that?”
+seek 	 “Seek and you will find.”
+seem 	 “She may seem quiet, but she’s really outgoing once you get to know her.”
+sell 	 “We can sell your old couch online.”
+send 	 “Please send the package to my address.”
+sense 	 “I did sense that something was not okay.”
+series 	 “What is your favorite TV series?”
+serious 	 “She is so serious, she never laughs.”
+serve 	 “This blow dryer has served me well for years.”
+service 	 “Do you have a specific dental service to treat this?”
+set 	 “Great, let me set an appointment for you.”
+set 	 “Set the glass on the table, please.”
+seven 	 “There are seven slices of pie left.”
+several 	 “I have several old clothes I need to donate.”
+sex 	 “Do you know the sex of your baby yet?”
+shake 	 “Don’t shake the can of soda.”
+share 	 “Let me share my idea.”
+she 	 “She is very happy.”
+shoot 	 “He wants to shoot arrows at the target.”
+short  	 “It was just a short stay at the hotel.”
+should 	 “Should I buy this dress?”
+shoulder 	 “You do not have to shoulder all the work on your own.”
+show 	 “Can you show me how to solve this puzzle?”
+show 	 “Can you show me how to use this vacuum cleaner?”
+side 	 “Whose side are you on, anyway?”
+sign 	 “That store needs a bigger sign.”
+significant 	 “His job earns a significant amount of money.”
+similar 	 “These earrings don’t match, but they are similar.”
+simple 	 “The appliance comes with simple instructions.”
+simply 	 “I simply won’t tolerate bad behavior.”
+since 	 “Ever since his mom died, he has been cranky and angry at the world.”
+since 	 “She hasn’t eaten since yesterday.”
+single 	 “I am a single parent.”
+sister 	 “My sister lives close to me.”
+sit 	 “Let’s sit outside together.”
+site 	 “This site is so big!”
+situation 	 “The situation is getting out of hand.”
+six 	 “I have six books about Psychology.”
+size 	 “What size is that shirt?
+skill 	 “His best skill is woodworking.”
+small 	 “I have a small favor to ask you.”
+so 	 “I am so sorry.”
+so 	 “I’m so sleepy.”
+social 	 “I feel awkward in these social gatherings.”
+society 	 “Their society is holding a fund raiser.”
+some 	 “Please give them some of the apples I brought home.”
+someone 	 “Is there someone who can go with you?”
+something 	 “I have something for you.”
+sometimes 	 “Sometimes I forget to turn off the porch lights.”
+son 	 “His son is so cute!”
+song 	 “That’s a beautiful song.”
+soon  	 “I will launch my course soon.”
+sort 	 “Let’s sort these beads according to color.”
+sound 	 “I like the sound of wind chimes.”
+sound 	 “The dog did not make a sound.”
+source 	 “You are my source of strength.”
+south 	 “I am headed south.”
+space 	 “Please leave some space to write down your phone number.”
+speak 	 “Could you speak a little louder?”
+special 	 “Some special paper are even scented!”
+specific 	 “Could you be more specific?”
+spend 	 “How much did you spend on your last shopping spree?”
+sport 	 “My favorite sport is soccer.”
+spring 	 “Spring is the most beautiful season.”
+staff 	 “There are five people on staff here.”
+stage 	 “A caterpillar is the larval stage of a butterfly.”
+stand 	 “Can you stand still for a minute?”
+standard 	 “The standard fee is $10.00.”
+star 	 “My son can draw a star!”
+start 	 “This is a great to start to learn the English language.”
+state 	 “After the accident I was in a state of shock.”
+state 	 “Check out the state of that shed, it’s falling apart.”
+statement 	 “The police chief gave a statement to the media.”
+station 	 “There is a train station close to my house.”
+stay 	 “You can stay with me for a few weeks.”
+step 	 “Watch your step.”
+still 	 “I still think you should go.”
+stock 	 “That shop has a good stock of postcards.”
+stop 	 “Please stop that.”
+store 	 “I’m going to the store to buy some bread.”
+story 	 “She shared her story to the media.”
+strategy 	 “Our new corporate strategy is written here.”
+street  	 “Let’s cross the street.”
+strong 	 “They have strong customer service here!”
+structure 	 “The building’s structure is solid.”
+student 	 “I’ve always been a diligent student.”
+study 	 “He needs to study for the test.”
+study 	 “Let’s study our English lessons together.
+stuff 	 “When I moved, I realized I have a lot of stuff!”
+style 	 “My dress is out of style.”
+subject 	 “My favorite subject is English!”
+success 	 “Failure is the back door to success.”
+such 	 “He is such an annoying person.”
+such 	 “You are such a brave little boy.”
+suddenly 	 “The storm came up suddenly.”
+suggest 	 “He did suggest that to me.”
+summer 	 “I’ll go to the beach in summer.”
+support  	 “I need your support for this project.”
+support 	 “Will you support him?”
+sure 	 “Are you sure you want to do this alone?”
+system 	 “What’s wrong with the airport’s system?”
+table  	 “I saw him draw it while he was writing on the table.”
+take 	 “Please take home some of these apples”
+talk 	 “Can we talk in private?”
+talk 	 “He talks a lot.”
+tax 	 “How much is the current income tax?”
+teach 	 “I love to teach English lessons.”
+teacher 	 “You are the best teacher ever.”
+team 	 “They hired a team to do the design of their new office.”
+technology 	 “Write about the advantages of technology.”
+television 	 “I don’t watch much television.”
+tell 	 “Can you tell me which way to go?”
+ten 	 “The baby counted her ten toes.”
+term  	 “I’m sure there’s a Latin term for it.”
+test 	 “I have to pass this English test.”
+than 	 “I like this cake better than the other one you showed me.”
+than 	 “Ice cream has more calories than water.”
+thank 	 “I forgot to thank her for the pie she sent us.”
+that 	 “Did you see that movie?”
+that 	 “That door is open.”
+that 	 “That’s a really cool trick!”
+their 	 “This is their house.”
+them 	 “Please give this to them.”
+themselves 	 “They can take care of themselves.”
+then 	 “We had breakfast and then we went to church.”
+theory 	 “In theory, that’s a good plan.”
+there 	 “Did you go there?”
+there 	 “There are so many things I want to learn.”
+these 	 “Do you like these ribbons?”
+they 	 “They are here!”
+thing 	 “One thing led to another.”
+think 	 “I think I need to lie down.”
+third 	 “This is the third time you’ve lied to me.”
+this 	 “This is my favorite cookie.”
+those 	 “Those boots belong to my friend.”
+though 	 “Though you are angry now, I’m sure you will forget about this later.”
+thought 	 “I’ll have to give it some thought.”
+thousand 	 “There are a thousand reasons to learn English!”
+three 	 “I have three sisters.”
+through 	 “Your faith will see you through tough times.”
+throughout 	 “Throughout my life I have always enjoyed reading.”
+throw 	 “Throw me the ball!”
+thus 	 “We haven’t had any problems thus far.”
+time 	 “There was a time I liked to play golf.”
+to 	 “Let’s go to the park.”
+today 	 “I’m going to see you today.”
+together 	 “They’re together now.”
+tonight 	 “Would you like to go out tonight?”
+too 	 “I like her too.”
+too 	 “I need some wine, too!”
+top 	 “The flag flies on the top of that building.”
+top 	 “You are a top student.”
+toward 	 “He took a step toward her.”
+town 	 “This town is extremely quiet.”
+trade 	 “The stock market traded lower today.”
+traditional 	 “They serve traditional Italian food there.”
+training 	 “The company will pay for your training.”
+treat 	 “Give yourself a treat for a job well done.”
+treatment 	 “I will propose a treatment plan for your injury.”
+tree 	 “That tree has been there for generations.”
+trial 	 “They are employing her on a trial basis.”
+trip 	 “We are taking a trip to Florida in January.”
+trouble 	 “Stay out of trouble.”
+true 	 “It’s true, I’m leaving the company.”
+truth 	 “Please tell me the truth.”
+try 	 “Can you try to be nicer to him?”
+turn 	 “If only I could turn back time.”
+TV 	 “There is a good movie on TV tonight.”
+two 	 “Two cheeseburgers, please.”
+type  	 “You need to type in your password.”
+under 	 “I hid it under my bed.”
+understand 	 “I understand how you feel.”
+unit 	 “A foot is a unit of measure.”
+until 	 “Until when will you be away?”
+up 	 “His grades have gone up.”
+up 	 “I live up in the mountains.”
+upon 	 “Once upon a time, a princess lived in a castle.”
+us 	 “Do you want to go with us?”
+use 	 “Can I use your phone?”
+use 	 “How do I use this?”
+usually 	 “I usually shop at the corner store.”
+value 	 “I value our friendship so much.”
+various 	 “That rug comes in various shades of gray.”
+very 	 “I’m very upset right now.”
+view 	 “This view is amazing!”
+visit 	 “We visited the museum today.”
+voice 	 “Hearing his mom’s voice is all he need right now.”
+wait 	 “Is it alright if you wait for a few minutes?”
+walk 	 “Come take a walk with me.”
+wall 	 “Can you post this up on the wall?”
+want 	 “Do you want these ribbons?”
+war 	 “The war has finally ended.”
+watch 	 “Let’s watch the sun set on the horizon.”
+water 	 “I filled the tub with water.”
+way 	 “Can you look this way?”
+we 	 “We are going to watch a movie.”
+weapon 	 “No weapons are allowed in government buildings.”
+wear  	 “Is that what you’re going to wear for the party?”
+week 	 “I had a rough week.”
+weight 	 “Keep track of your pet’s weight.”
+well 	 “I wish you well.”
+well 	 “You know me so well.”
+west 	 “If you drive West, you will arrive in California.”
+what 	 “What are you thinking of?”
+whatever 	 “Choose whatever flavor you like the best.”
+when 	 “When was the last time you saw them?”
+when 	 “When will I see you again?”
+where 	 “Where are we going?”
+where 	 “Where were you last night?”
+whether 	 “Whether in big groups or small groups, I always feel a little shy at first.”
+which 	 “Which of these slippers are yours?”
+while 	 “I can wait for you here while you shop.”
+white 	 “I love my white sneakers.”
+who 	 “Who can help me?”
+whole 	 “I have the whole house to myself.”
+whose  	 “Whose umbrella is this?”
+why 	 “This is why I don’t go out anymore.”
+wide 	 “The doorway was very wide.”
+wife 	 “My wife is away for the weekend.”
+will 	 “I will help you find that place.”
+win 	 “We can win this match if we work together.”
+window  	 “I’ll buy window curtains next week.”
+with 	 “I want to go with you.”
+within 	 “We support everyone within our small community.”
+without 	 “I can’t live without my phone.”
+woman 	 “That woman looks so polished.”
+won’t 	 “I won’t open it.”
+wonder 	 “I wonder if the Bulls will win the game.”
+word 	 “Describe yourself in one word.”
+work 	 “I have to go to work.”
+work 	 “I have to work this weekend.”
+worker 	 “She’s a factory worker.”
+world 	 “I want to travel and see the world.”
+worry 	 “Don’t worry about tomorrow.”
+would 	 “Would you help me out?”
+write 	 “Can you write me a prescription for this?”
+writer 	 “You are a good writer.”
+wrong 	 “That is the wrong answer.”
+yeah 	 “Yeah, he did call me earlier.”
+year 	 “This is the year I’m finally going to learn English.”
+yes 	 “I hope you say yes.”
+yet 	 “He’s not yet home.”
+you 	 “You are really nice.”
+young 	 “She is so young and so hopeful.”
+your 	 “Your mom is here.”
+yourself 	 “You gave yourself a haircut?”

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane alignment="center" hgap="10" prefHeight="450.0" prefWidth="600.0" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.DictionaryManagement">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <SplitPane dividerPositions="0.35" prefHeight="450.0" prefWidth="600.0">
+        <items>
+            <VBox prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <GridPane alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="30.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="170.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <ImageView blendMode="DARKEN" fitHeight="25.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@SearchIcon.png" />
+                           </image>
+                           <effect>
+                              <Blend />
+                           </effect>
+                           <GridPane.margin>
+                              <Insets left="2.0" />
+                           </GridPane.margin>
+                        </ImageView>
+                        <TextField fx:id="searchInput" prefHeight="41.0" prefWidth="170.0" GridPane.columnIndex="1">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </TextField>
+                     </children>
+                     <padding>
+                        <Insets top="10.0" />
+                     </padding>
+                  </GridPane>
+                  <ListView fx:id="listView" prefHeight="388.0" prefWidth="192.0">
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="10.0" />
+                     </VBox.margin>
+                  </ListView>
+               </children>
+            </VBox>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <ImageView blendMode="DARKEN" fitHeight="50.0" fitWidth="220.0" layoutX="162.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Logo.png" />
+                     </image>
+                     <effect>
+                        <Blend />
+                     </effect>
+                  </ImageView>
+                  <TextArea fx:id="wordDetail" editable="false" layoutX="4.0" layoutY="49.0" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="388.0" prefWidth="379.0" wrapText="true">
+                     <font>
+                        <Font size="35.0" />
+                     </font>
+                  </TextArea>
+               </children></AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</GridPane>
